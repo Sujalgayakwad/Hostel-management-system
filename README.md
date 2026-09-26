@@ -234,19 +234,25 @@ This project is developed for **educational and academic purposes**.
 
 **Sujal Gayakwad**
 # 🏨 HostelEase — Hostel Management System
-
-A modern Hostel Management System for students, wardens, and security staff.
-
 ## 📸 Screenshots
 
-### Student Dashboard
+### 🎓 Student Portal
 
-[![Student Dashboard](screenshots/dashboard.png)](screenshots/)
+<p align="center">
+  <img src="screenshots/Screenshot%20(7).png" width="48%">
+  <img src="screenshots/Screenshot%20(8).png" width="48%">
+</p>
 
-### Warden Dashboard
+### 👨‍💼 Warden Portal
 
-[![Warden Dashboard](screenshots/warden-dashboard.png)](screenshots/)
+<p align="center">
+  <img src="screenshots/Screenshot%20(14).png" width="48%">
+  <img src="screenshots/Screenshot%20(15).png" width="48%">
+</p>
 
+### 📂 View All Screenshots
+
+[👉 View All Screenshots](./screenshots/)
 👉 [View all screenshots](screenshots/)
 ---
 
