@@ -233,10 +233,21 @@ This project is developed for **educational and academic purposes**.
 ## 👨‍💻 Author
 
 **Sujal Gayakwad**
+# 🏨 HostelEase — Hostel Management System
 
-GitHub:
-https://github.com/Sujagayakwad
+A modern Hostel Management System for students, wardens, and security staff.
 
+## 📸 Screenshots
+
+### Student Dashboard
+
+[![Student Dashboard](screenshots/dashboard.png)](screenshots/)
+
+### Warden Dashboard
+
+[![Warden Dashboard](screenshots/warden-dashboard.png)](screenshots/)
+
+👉 [View all screenshots](screenshots/)
 ---
 
 ⭐ If you find this project useful, consider giving it a **star** on GitHub!
