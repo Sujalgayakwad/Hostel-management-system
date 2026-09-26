@@ -241,9 +241,7 @@ git commit -m "Add new feature"
 git push origin feature/new-feature
 ```
 
-5. Open a Pull Request
 
-## 📄 License
 
 This project is developed for **educational and academic purposes**.
 
