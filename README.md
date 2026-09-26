@@ -25,12 +25,7 @@ The system can be used by **administrators, wardens, and students** to access re
 * Bed allocation
 * Room occupancy management
 
-### 💰 Fee Management
 
-* Hostel fee records
-* Payment status tracking
-* Pending fee management
-* Payment history
 
 ### 📋 Attendance Management
 
@@ -46,12 +41,7 @@ The system can be used by **administrators, wardens, and students** to access re
 * Complaint resolution management
 * Admin/warden response
 
-### 👥 Visitor Management
 
-* Visitor registration
-* Visitor details
-* Check-in/check-out records
-* Visitor history
 
 ### 📢 Notice Management
 
@@ -84,10 +74,7 @@ The system can be used by **administrators, wardens, and students** to access re
 ### 🔐 Admin
 
 * Manage students
-* Manage rooms
-* Manage fees
 * Manage complaints
-* Manage visitors
 * Publish notices
 * View hostel statistics
 
@@ -96,14 +83,12 @@ The system can be used by **administrators, wardens, and students** to access re
 * Monitor students
 * Manage attendance
 * Handle complaints
-* Manage visitors
 * View room information
 
 ### 👨‍🎓 Student
 
 * View profile
-* View room details
-* Check fee status
+* View room detail
 * Submit complaints
 * View notices
 * Check attendance
